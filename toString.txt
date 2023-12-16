@@ -1,0 +1,7 @@
+The Arrays.toString() method in Java is used to convert an array to a string representation. It returns a string that consists of the contents of the given array, enclosed in square brackets and separated by commas.
+
+Here is the syntax of the toString() method:
+
+static String toString(datatype[] array)
+
+The toString() method has several overloaded variants for different types of arrays, such as boolean[], byte[], char[], double[], float[], int[], long[], short[], and Object[]. Each variant returns a string representation of the contents of the specified array.
